@@ -7,8 +7,6 @@ class HomePage extends StatelessWidget {
     ['Learn Web Development', false],
     ['learn Flutter', false],
     ['learn dart', false],
-    ['learn ', false],
-    ['lerning', false],
   ];
 
   @override
