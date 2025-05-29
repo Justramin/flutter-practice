@@ -15,7 +15,7 @@ class HomePage extends StatelessWidget {
       backgroundColor: Colors.deepPurple.shade300,
       appBar: AppBar(
         title: const Text('Home Page'),
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: const Color.fromARGB(255, 117, 44, 245),
         foregroundColor: Colors.white,
       ),
       body: ListView.builder(
